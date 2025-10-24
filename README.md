@@ -257,7 +257,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🎓 NIT Patna
 - 🌐 Hugging Face: [Aditya 46 Raj](https://huggingface.co/Aditya-46-Raj)
-- 📧 Email: [adityaraj21103@gmail.com]
+- 📧 Email: [Aditya Raj](adityaraj21103@gmail.com)
 - 💼 LinkedIn: [ADITYA RAJ](https://www.linkedin.com/in/aditya-46-raj/)
 - 🐙 GitHub: [Aditya-46-Raj](https://github.com/Aditya-46-Raj)
 
